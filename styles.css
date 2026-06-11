@@ -4,13 +4,7 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 
-    .about-content,
-.about-content * {
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
+
 }
 
 
@@ -19,9 +13,6 @@
 body {
     background-color: #080808;
     color: white;
-body {
-    user-select: none;
-}
     
 }
 
