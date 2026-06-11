@@ -75,6 +75,8 @@ span {
 
 /* About */
 #about {
+
+color: rgba(255, 37, 37, 0.836);    
     padding: 80px 0;
 }
 
